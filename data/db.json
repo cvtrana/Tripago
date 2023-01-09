@@ -1,0 +1,23 @@
+{
+    "trips" :[
+        {"title":"2 night stay in venice",
+        "price":"195rs","id":"1","loc":"europe"},
+        
+        {"title":"3 night stay in Paris",
+        "price":"295rs","id":"2","loc":"europe"},
+
+        {"title":"2 night stay in London",
+        "price":"395rs","id":"3","loc":"europe"},
+
+        {"title":"2 night stay in New York",
+        "price":"325rs","id":"4","loc":"america"}
+
+
+
+
+
+
+
+    ]
+
+}
