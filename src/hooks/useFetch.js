@@ -26,7 +26,7 @@ export const useFetch = (url)=>{
                 }
                 else{
                     setIspending(false)
-                    setError('couldd not fetch the data')
+                    setError('could not fetch the data')
 
                 }
                 
